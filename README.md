@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Hero Banner"/>
+</p>
 <div align="center">
 
 <img src="./assets/logo.svg" width="120">
