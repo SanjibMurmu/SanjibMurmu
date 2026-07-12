@@ -4,41 +4,40 @@
 
 </div>
 
-```terminal
-root@sanjib:~$ whoami
-Sanjib Murmu | Backend Developer @ Jadavpur University
-B.Tech Information Technology
+```bash
+# System Initialization...
+<span style="color: #ff9d00;">root@sanjib:~$</span> ./init_session.sh
+[INFO] Loading Environment: Backend_OS_v2026
+[INFO] User: Sanjib Murmu
+[INFO] Status: Ready for Summer Internship 2027
 
-root@sanjib:~$ cat about.txt
-Passionate Backend Engineer focused on building scalable systems. 
-Currently optimizing architectures with Java, Spring Boot, and MySQL.
-Aiming for Summer Internship 2027.
+<span style="color: #ff9d00;">root@sanjib:~$</span> cat /etc/profile/bio
+Backend Engineer based in Kolkata,India. Currently pursuing B.Tech in 
+Information Technology at Jadavpur University. Focused on 
+architecting scalable microservices, database optimization, 
+and building robust APIs.
 
-root@sanjib:~$ tree skills/
-skills/
-├── Languages
-│   └── Java, Python, SQL
-├── Backend
-│   └── Spring Boot, Hibernate, RESTful APIs
-├── Databases
-│   └── MySQL, PostgreSQL, Redis
-└── Dev Tools
-    └── Git, Docker, Linux, VS Code
+<span style="color: #ff9d00;">root@sanjib:~$</span> ls -F /src/skills/
+├── Languages/    # Java, Python, SQL
+├── Backend/      # Spring Boot, Hibernate, RESTful APIs
+├── Databases/    # MySQL, PostgreSQL, Redis
+└── Dev_Tools/    # Docker, Git, Linux, Maven
 
-root@sanjib:~$ ls projects/
-├── E-Commerce-API   # Microservices-based backend
-├── Task-Scheduler   # Distributed task management
-└── Portfolio-OS     # This profile interface
+<span style="color: #ff9d00;">root@sanjib:~$</span> cat ./projects/featured.list
+- E-Commerce-API: High-concurrency microservices architecture.
+- Task-Scheduler: Distributed system for asynchronous job processing.
+- Portfolio-OS: Custom terminal-integrated GitHub interface.
 
-root@sanjib:~$ git stats --user=SanjibMurmu
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SanjibMurmu&theme=tokyonight&hide_border=true)
+<span style="color: #ff9d00;">root@sanjib:~$</span> ./bin/fetch_metrics --user=SanjibMurmu
+# Metrics Report Generation in Progress...
+[WAITING FOR ACTION RUNNER]
+<img src="github-metrics.svg" width="100%" alt="Metrics Report">
 
-root@sanjib:~$ ping social/
-- LinkedIn: /in/SanjibMurmu
-- Email: sanjib.dev@email.com
+<span style="color: #ff9d00;">root@sanjib:~$</span> cat social/network.conf
+# Configure social connectivity
+[ <span style="color: #ffffff;">🔗</span> ](https://linkedin.com/in/SanjibMurmu) <span style="color: #ffffff;">LinkedIn</span>
+[ <span style="color: #ffffff;">📧</span> ](mailto:sanjib.dev@email.com) <span style="color: #ffffff;">Email</span>
+[ <span style="color: #ffffff;">🐙</span> ](https://github.com/SanjibMurmu) <span style="color: #ffffff;">GitHub</span>
 
-root@sanjib:~$ cat activity.log
-![Contribution Snake](https://raw.githubusercontent.com/SanjibMurmu/SanjibMurmu/output/github-contribution-grid-snake.svg)
-
-root@sanjib:~$ exit
+<span style="color: #ff9d00;">root@sanjib:~$</span> logout
+Connection closed.
