@@ -1,0 +1,6 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="60" rx="5" fill="#0d1117" />
+  <text x="20" y="35" font-family="monospace" font-size="16" fill="#79c0ff">
+    root@sanjib:~$ <tspan fill="#ffffff" font-style="italic">status: ready_for_internship_2027</tspan>
+  </text>
+</svg>
