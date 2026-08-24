@@ -57,7 +57,7 @@ between backend systems and data structures & algorithms, with web dev on the si
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=SanjibMurmu&theme=tokyonight&hide_border=true">
