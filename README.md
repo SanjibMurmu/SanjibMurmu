@@ -1,43 +1,109 @@
 <div align="center">
 
-![Hero Banner](assets/hero.svg)
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/SanjibMurmu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Sanjib+Murmu;Backend+Dev+%C2%B7+Java+%2B+Spring+Boot;DSA+Practitioner;React+%2B+TypeScript;01001000+01101001" alt="typing banner">
+</a>
+
+<br>
+
+<!-- SOCIALS - update the placeholder links below with your real ones -->
+<a href="https://github.com/SanjibMurmu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/sanjibmurmu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — add your URL"></a>
+<a href="mailto:sanjibmurmu2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace address"></a>
+<a href="https://leetcode.com/u/Sanjib_Murmu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode — add your handle"></a>
+<a href="https://sanjibmurmu.in/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — add your URL"></a>
+
+<img src="https://komarev.com/ghpvc/?username=SanjibMurmu&style=flat&color=22d3ee&label=profile+views" alt="profile views">
 
 </div>
 
-```bash
-# System Initialization...
-<span style="color: #ff9d00;">root@sanjib:~$</span> ./init_session.sh
-[INFO] Loading Environment: Backend_OS_v2026
-[INFO] User: Sanjib Murmu
-[INFO] Status: Ready for Summer Internship 2027
+---
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> cat /etc/profile/bio
-Backend Engineer based in Kolkata,India. Currently pursuing B.Tech in 
-Information Technology at Jadavpur University. Focused on 
-architecting scalable microservices, database optimization, 
-and building robust APIs.
+## `~/` whoami
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> ls -F /src/skills/
-├── Languages/    # Java, Python, SQL
-├── Backend/      # Spring Boot, Hibernate, RESTful APIs
-├── Databases/    # MySQL, PostgreSQL, Redis
-└── Dev_Tools/    # Docker, Git, Linux, Maven
+```console
+$ cat about.txt
+```
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> cat ./projects/featured.list
-- E-Commerce-API: High-concurrency microservices architecture.
-- Task-Scheduler: Distributed system for asynchronous job processing.
-- Portfolio-OS: Custom terminal-integrated GitHub interface.
+Hi, I'm **Sanju Murmu** — a third-year B.E. Information Technology student who spends most of my time moving
+between backend systems and data structures & algorithms, with web dev on the side.
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> ./bin/fetch_metrics --user=SanjibMurmu
-# Metrics Report Generation in Progress...
-[WAITING FOR ACTION RUNNER]
-<img src="github-metrics.svg" width="100%" alt="Metrics Report">
+- Backend: **Java · Spring Boot · Spring Data JPA · MySQL · JWT auth**
+- DSA: solving in **Java**
+- Web: **React · TypeScript · Tailwind CSS · Framer Motion**
+- Currently building **[Portfolio Website](#)** (3D coverflow project gallery) and **[Mare Serenj](#)**, a cassette-styled web radio player
+- Aiming for a software engineering internship
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> cat social/network.conf
-# Configure social connectivity
-[ <span style="color: #ffffff;">🔗</span> ](https://linkedin.com/in/SanjibMurmu) <span style="color: #ffffff;">LinkedIn</span>
-[ <span style="color: #ffffff;">📧</span> ](mailto:sanjib.dev@email.com) <span style="color: #ffffff;">Email</span>
-[ <span style="color: #ffffff;">🐙</span> ](https://github.com/SanjibMurmu) <span style="color: #ffffff;">GitHub</span>
+<br>
 
-<span style="color: #ff9d00;">root@sanjib:~$</span> logout
-Connection closed.
+
+
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=java,cpp,py,spring,mysql,jwt,react,ts,js,tailwind,git,github,vscode,html,css&perline=8" alt="tech stack">
+
+
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<!-- github-readme-stats + streak-stats: quick to set up, but these run on
+     shared public instances that occasionally go down — worth knowing.
+     Swap in self-hosted cards later if that becomes a problem. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjibMurmu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=SanjibMurmu&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SanjibMurmu&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=SanjibMurmu&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak">
+</picture>
+
+<br><br>
+
+<!-- Requires the metrics workflow in .github/workflows/metrics.yml -->
+<img src="github-metrics.svg" width="100%" alt="contribution metrics — generated by the metrics workflow">
+
+<br><br>
+
+<!-- Requires the snake workflow in .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SanjibMurmu/SanjibMurmu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjibMurmu/SanjibMurmu/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/SanjibMurmu/SanjibMurmu/output/github-contribution-grid-snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<sub>
+
+| project | stack | notes |
+|---|---|---|
+| **[Portfolio Website](https://github.com/SanjibMurmu/REPLACE_ME)** | `React` `TypeScript` `Tailwind` `Framer Motion` | Personal site with a 3D coverflow project gallery |
+| **[Mare Serenj](https://github.com/SanjibMurmu/REPLACE_ME)** | `HTML/CSS/JS` `Node.js` `WebSockets` | Cassette-UI web radio streaming YouTube playlists, live listener count |
+| **[URL Shortener](https://github.com/SanjibMurmu/REPLACE_ME)** | `Java` | Link-shortening service |
+| **[University Marks Manager](https://github.com/SanjibMurmu/REPLACE_ME)** | `Java` | Tracks and computes academic marks |
+
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+
+</div>
