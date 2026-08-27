@@ -89,7 +89,7 @@ between backend systems and data structures & algorithms, with web dev on the si
 | **[Portfolio Website](https://github.com/SanjibMurmu/portfolio)** | `React` `TypeScript` `Tailwind` `Framer Motion` | Personal site with a 3D coverflow project gallery |
 | **[Mare Serenj](https://github.com/SanjibMurmu/mare-serenj)** | `HTML/CSS/JS` `Node.js` `WebSockets` | Cassette-UI web radio streaming YouTube playlists, live listener count |
 | **[URL Shortener](https://github.com/SanjibMurmu/URLShortener)** | `Java` | Link-shortening service |
-| **[University Marks Manager](https://github.com/SanjibMurmu/unioversity-marks-manager)** | `Java` | Tracks and computes academic marks |
+| **[University Marks Manager](https://github.com/SanjibMurmu/university-marks-manager)** | `Java` | Tracks and computes academic marks |
 
 </sub>
 
