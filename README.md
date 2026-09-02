@@ -10,7 +10,7 @@
 <!-- SOCIALS - update the placeholder links below with your real ones -->
 <a href="https://github.com/SanjibMurmu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/sanjibmurmu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — add your URL"></a>
-<a href="mailto:sanjibmurmu2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace address"></a>
+<a href="mailto:contact@sanjibmurmu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace address"></a>
 <a href="https://leetcode.com/u/Sanjib_Murmu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode — add your handle"></a>
 <a href="https://sanjibmurmu.in/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — add your URL"></a>
 
